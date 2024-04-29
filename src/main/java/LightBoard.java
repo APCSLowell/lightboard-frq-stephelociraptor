@@ -43,6 +43,7 @@ public class LightBoard
     }
     else {
       return lights[row][col];
+    }
    
  
   }
